@@ -3,7 +3,7 @@
 
 <h3>Installation Proceedure:</h3>
 
-1. <code>git clone https://github.com/LikeABoss-001/Raspberry-Pi-LAMP-Install-Script.git</code>
+1. <code>git clone https://github.com/mjbeverley/Raspberry-Pi-LAMP-Install-Script.git</code>
 
 2. <code>cd Raspberry-Pi-LAMP-Install-Script</code>
 
