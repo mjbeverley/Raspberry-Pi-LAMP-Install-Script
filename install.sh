@@ -27,5 +27,5 @@ sudo apt-get install -y php5 libapache2-mod-php5 php5-intl php5-mcrypt php5-curl
 sudo apt-get install -y mysql-server mysql-client php5-mysql
 
 #Additional Dependencies
-sudo apt-get install -y nmap zenmap
+#sudo apt-get install -y nmap zenmap
 
